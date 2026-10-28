@@ -1,5 +1,5 @@
-# 🎬 [Film_director_check]
-
+# [Film_director_check]
+-----------
 ## Introduction
 
 Every film director has a unique directorial style, characterized by specific elements such as color palette, editing rhythm, and camera movement.
